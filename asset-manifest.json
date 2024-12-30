@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AWD/static/css/main.c70e21df.css",
+    "main.css": "/AWD/static/css/main.117fdf51.css",
     "main.js": "/AWD/static/js/main.b4852ad5.js",
     "static/js/488.b9c175b8.chunk.js": "/AWD/static/js/488.b9c175b8.chunk.js",
     "static/media/Parisjpg.jpg": "/AWD/static/media/Parisjpg.2f78c23331d834eece7f.jpg",
@@ -26,12 +26,12 @@
     "static/media/canvas.jpg": "/AWD/static/media/canvas.dd4f6bae4f691183b016.jpg",
     "static/media/oxford.jpg": "/AWD/static/media/oxford.3c46560d45e22dd67aa5.jpg",
     "index.html": "/AWD/index.html",
-    "main.c70e21df.css.map": "/AWD/static/css/main.c70e21df.css.map",
+    "main.117fdf51.css.map": "/AWD/static/css/main.117fdf51.css.map",
     "main.b4852ad5.js.map": "/AWD/static/js/main.b4852ad5.js.map",
     "488.b9c175b8.chunk.js.map": "/AWD/static/js/488.b9c175b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c70e21df.css",
+    "static/css/main.117fdf51.css",
     "static/js/main.b4852ad5.js"
   ]
 }
