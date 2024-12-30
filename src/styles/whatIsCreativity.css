@@ -1,0 +1,194 @@
+#what-is-creativity .creativity-section {
+  background-color: #f8f3f0; 
+  color: #333; 
+  padding: 50px 0;
+}
+
+#what-is-creativity .container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#what-is-creativity .headline h1 {
+  font-size: 2.5rem;
+  color: #C73C00; 
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#what-is-creativity .headline h2 {
+  font-size: 1.5rem;
+  color: #757575; 
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#what-is-creativity .content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
+  justify-content: center; 
+}
+
+#what-is-creativity .image-container {
+  flex: 1;
+  text-align: center;
+  width: 100%; 
+}
+
+#what-is-creativity .image-container img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin: 0 auto; 
+}
+
+#what-is-creativity .text-container {
+  flex: 1;
+  width: 100%; 
+  background-color: #ffffff; 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  text-align: center; 
+  margin: 0 auto; 
+}
+
+#what-is-creativity .text-container h3 {
+  font-size: 1.8rem;
+  color: #C73C00; 
+  margin-bottom: 20px;
+}
+
+#what-is-creativity .text-container p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333; 
+  margin-bottom: 20px;
+  text-align: justify; 
+}
+
+#what-is-creativity .definitions {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#what-is-creativity .definitions blockquote {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #757575;
+  margin: 20px auto;
+  max-width: 800px;
+  position: relative;
+  padding-left: 20px;
+}
+
+#what-is-creativity .definitions blockquote::before {
+  content: "“";
+  font-size: 2rem;
+  color: #ff6f61; 
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#what-is-creativity .definitions blockquote::after {
+  content: "”";
+  font-size: 2rem;
+  color: #ff6f61; 
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+@media (max-width: 320px) {
+  #what-is-creativity .content {
+    flex-direction: column; 
+    gap: 15px;
+    align-items: center; 
+    justify-content: center; 
+  }
+
+  #what-is-creativity .headline h1 {
+    font-size: 1.5rem;
+    text-align: center; 
+  }
+
+  #what-is-creativity .headline h2 {
+    font-size: 1rem;
+    text-align: center; 
+    margin-bottom: 15px;
+  }
+
+  #what-is-creativity .image-container img {
+    max-width: 90%; 
+    height: auto; 
+    margin: 0 auto; 
+  }
+
+  #what-is-creativity .text-container {
+    padding: 15px; 
+    text-align: center; 
+    margin: 0 auto; 
+    width: 90%; 
+  }
+
+  #what-is-creativity .text-container h3 {
+    font-size: 1.5rem;
+  }
+
+  #what-is-creativity .text-container p {
+    font-size: 0.9rem;
+    text-align: justify; 
+  }
+
+  #what-is-creativity .definitions blockquote {
+    font-size: 0.9rem;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  #what-is-creativity .content {
+    flex-direction: column; 
+    gap: 15px;
+    align-items: center;
+  }
+
+  #what-is-creativity .headline h1 {
+    font-size: 2rem; 
+    margin-bottom: 5px;
+  }
+
+  #what-is-creativity .headline h2 {
+    font-size: 1.2rem; 
+    margin-bottom: 20px;
+  }
+
+  #what-is-creativity .image-container img {
+    max-width: 100%; 
+    height: auto;
+  }
+
+  #what-is-creativity .text-container {
+    padding: 15px;
+    text-align: center; 
+    margin: 0 auto; 
+  }
+
+  #what-is-creativity .text-container h3 {
+    font-size: 1.5rem;
+  }
+
+  #what-is-creativity .text-container p {
+    font-size: 0.9rem;
+  }
+
+  #what-is-creativity .definitions blockquote {
+    font-size: 1rem;
+    padding-left: 15px;
+  }
+}

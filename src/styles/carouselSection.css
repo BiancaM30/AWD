@@ -1,0 +1,41 @@
+#creativityCarousel .carousel-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#creativityCarousel .carousel-image {
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover; 
+  border-radius: 50%; 
+  margin: 10px auto; 
+  display: block; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  border: 2px solid #fff; 
+}
+
+@media (max-width: 768px) {
+  #creativityCarousel .carousel-image {
+    width: 80px; 
+    height: 80px;
+  }
+
+  #creativityCarousel .carousel-text {
+    font-size: 0.9rem; 
+  }
+}
+
+#creativityCarousel .carousel-text {
+  font-size: 1rem; 
+  font-style: italic;
+  text-align: center;
+  margin-top: 10px;
+  color: #555; 
+}
+
+#creativityCarousel .carousel-control-prev-icon,
+#creativityCarousel .carousel-control-next-icon {
+  filter: invert(0.7); 
+}
