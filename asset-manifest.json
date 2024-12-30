@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/AWD/static/css/main.7f66050f.css",
+    "main.js": "/AWD/static/js/main.9e3c33e9.js",
+    "static/js/488.b9c175b8.chunk.js": "/AWD/static/js/488.b9c175b8.chunk.js",
+    "static/media/Parisjpg.jpg": "/AWD/static/media/Parisjpg.2f78c23331d834eece7f.jpg",
+    "static/media/flamingo.jpg": "/AWD/static/media/flamingo.a16cf5fb05e83acef951.jpg",
+    "static/media/Luvru.jpg": "/AWD/static/media/Luvru.6d9c4a0a051003d62697.jpg",
+    "static/media/Strasbourg.jpg": "/AWD/static/media/Strasbourg.2598fdd4705dd56dbd44.jpg",
+    "static/media/Roma.jpg": "/AWD/static/media/Roma.ee8d92bb5b4591484e9a.jpg",
+    "static/media/Madrid.jpg": "/AWD/static/media/Madrid.808590e0a3cf87b5fc94.jpg",
+    "static/media/landing_page.jpg": "/AWD/static/media/landing_page.806e43f29e972ec55c3d.jpg",
+    "static/media/Colmar.jpg": "/AWD/static/media/Colmar.65e7649fde4fd0be49ed.jpg",
+    "static/media/Monalisa.jpg": "/AWD/static/media/Monalisa.e3dd22972346c4e9bb9c.jpg",
+    "static/media/Menton.jpg": "/AWD/static/media/Menton.7249a05185c46bac3a06.jpg",
+    "static/media/writer.jpg": "/AWD/static/media/writer.d4ef35acdf789140efa1.jpg",
+    "static/media/hand.jpg": "/AWD/static/media/hand.9782cf040b72193255a9.jpg",
+    "static/media/Eze.jpg": "/AWD/static/media/Eze.c512da65d972b69c1602.jpg",
+    "static/media/latin.jpg": "/AWD/static/media/latin.39dc73618366e2aba4d1.jpg",
+    "static/media/einstein.jpg": "/AWD/static/media/einstein.4eaa389d5ba5e4b8e64b.jpg",
+    "static/media/painter.jpg": "/AWD/static/media/painter.afb723840fccf8d9b7cb.jpg",
+    "static/media/doctor.jpg": "/AWD/static/media/doctor.834a154977e4d74a93ab.jpg",
+    "static/media/dancer.jpg": "/AWD/static/media/dancer.874cb7d5797d670e9c19.jpg",
+    "static/media/edward.jpg": "/AWD/static/media/edward.53620ab19badbaf7c020.jpg",
+    "static/media/canvas2.jpg": "/AWD/static/media/canvas2.0f6b503ebdf649294c26.jpg",
+    "static/media/canvas.jpg": "/AWD/static/media/canvas.dd4f6bae4f691183b016.jpg",
+    "static/media/oxford.jpg": "/AWD/static/media/oxford.3c46560d45e22dd67aa5.jpg",
+    "index.html": "/AWD/index.html",
+    "main.7f66050f.css.map": "/AWD/static/css/main.7f66050f.css.map",
+    "main.9e3c33e9.js.map": "/AWD/static/js/main.9e3c33e9.js.map",
+    "488.b9c175b8.chunk.js.map": "/AWD/static/js/488.b9c175b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f66050f.css",
+    "static/js/main.9e3c33e9.js"
+  ]
+}
